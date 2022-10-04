@@ -9,7 +9,7 @@ Created using react-native.
 
 ## Working functions
 
-Is possible to search for the adress using google locations API, set and origin and a destination and estimate the costs and time of the ride.
+Is possible to search for the adress using google locations API, set an origin and a destination and estimate the costs and time of the ride.
 
 P.s.: The hours and texts, and values are in PT-BR pattern.
 
